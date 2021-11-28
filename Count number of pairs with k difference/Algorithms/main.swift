@@ -21,6 +21,7 @@ class Solution {
     }
 }
 let sol = Solution()
+
 let ans = sol.countKDifference([3,2,3,5,4], 2)
 print(ans)
 
